@@ -1,7 +1,8 @@
 /**==================================================================================
  *     	    Author:	Harsh Savla, Purshottam Vishwakarma.
- *     Description:	This file contains the code for the tracerouteserver for P538
- *			project 1.
+ *     Description:	This is a multi-threaded server which is capable of performing 
+ * 			traceroutes for the client's issued commands. In addition, it 
+ * 			also supports logging, rate limiting and time-outs.
  *===================================================================================**/
 
 #include<iostream>
