@@ -1,7 +1,7 @@
-/*	
-	Author: Harsh Savla
-	This is the readme file for the project		
-*/
+/*=====================================================	
+Author: 		Harsh Savla
+Description:	This is a client-server application. The server is capable of executing traceroute commands issued by the client. The server supports logging, multi-threading so it can handle multiple clients, rate limiting and time-outs which times out an inactive client.
+*======================================================/
 
 1. To compile the server, use:	make
 
