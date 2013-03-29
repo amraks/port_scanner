@@ -1,8 +1,11 @@
 /*================================================================================
-	Readme for project 2
 
-	     Author:	 Harsh Savla
-	Description:	 This is a port scanner capapble of scanning ports on any server with options of specifying the port numbers which you want to scan, the number of threads you want to create, the servers you want to perform your scan on.
+README for project 2
+
+Author: Harsh Savla
+Description: This is a port scanner capapble of scanning ports on any server with 
+options of specifying the port numbers which you want to scan, the number of threads 
+you want to create, the servers you want to perform your scan on.
 
 =================================================================================*/
 
