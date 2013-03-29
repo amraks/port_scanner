@@ -1,6 +1,6 @@
 /*==================================================================================
 
-README for Traceroute Server - Porject 1
+README for Traceroute Server - Project 1
 
 Author: Harsh Savla
 
