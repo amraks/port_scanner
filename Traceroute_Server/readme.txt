@@ -1,5 +1,9 @@
 /*==================================================================================
+
+README for Traceroute Server - Porject 1
+
 Author: Harsh Savla
+
 Description: This is a client-server application. The server is capable of executing 
 traceroute commands issued by the client. The server supports logging, multi-threading 
 so it can handle multiple clients, rate limiting and time-outs which times out an 
